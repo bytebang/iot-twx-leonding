@@ -5,7 +5,7 @@ from sense_hat import SenseHat
 sense = SenseHat()
 
 # MQTT-Broker-Verbindungsinformationen
-broker_address = "itsp.htl-leoben.at"
+broker_address = "your.mqtt.broker.here"
 broker_port = 1883
 mqtt_topic = "iot-pi-hg/humidity"
 username = "your_username"
